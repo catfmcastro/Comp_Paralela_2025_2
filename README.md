@@ -1,0 +1,1 @@
+# Comp_Paralela_2025_2
