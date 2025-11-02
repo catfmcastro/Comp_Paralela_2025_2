@@ -1,0 +1,6 @@
+i) Tempo de execução: 0m1.551s
+ii) [CUDA memcpy HtoD]:
+    sum_cuda(double*, double*, int): 
+iii)[CUDA memcpy HtoD]:
+    sum_cuda(double*, double*, int):
+iV) 
